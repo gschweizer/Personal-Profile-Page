@@ -15,7 +15,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #003e6b;
+  color: #002f6a;
 }
 
 /* Section Styles */
@@ -71,6 +71,7 @@ header .profile-image {
   border-radius: 50%;
   border: 3px solid white;
   transition: all .5s;
+  box-shadow: 0 0 8px 3px rgba(100, 100, 100, .4);
 }
 header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
